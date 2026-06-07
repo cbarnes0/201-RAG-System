@@ -36,6 +36,7 @@ def clean_text(text: str) -> str:
     text = re.sub(r"\*{1,2}([^*]+)\*{1,2}", r"\1", text)          # bold/italic markers
     text = re.sub(r"[ \t]+", " ", text)                            # collapse horizontal whitespace
     text = re.sub(r"\n{3,}", "\n\n", text)                         # collapse 3+ blank lines to one
+    text = re.sub(r"Source: https?://\S+", "", text)               # strip URL lines wherever they appear
     return text.strip()
 
 

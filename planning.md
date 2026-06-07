@@ -101,9 +101,9 @@ If this was production, there would be significantly more data points. It may be
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. I'm worried about off-topic retrieval. Given the nature of reviews, they can seem very similar from teacher to teacher. I am hoping that ensuring the references documents are structured and scrubbed properly will help with that.
 
-2.
+2. In addition, I'm concerned about the cosine distance not being below ~0.5 for the top few results. There were some professors where there weren't many differing reviews, so there isn't much info to retrieve. 
 
 ---
 
@@ -185,4 +185,13 @@ For checking, I plan on using Claude code within VSC to assist in implementing t
 
 **Milestone 4 — Embedding and retrieval:**
 
+For embedding the information we are using all-MiniLM-L6-v2 via sentence transformer. To produce a vector for the given chunk of information. ChromaDB is then used to store these vectors with the original text, and metadata under a unique ID. 
+
+Retrieving the information finds the stored vectors that a most geometrically close to the query using cosine distance. ~0.5 or below being the goal for the top results. Top-k@5 was used instead of 3, once moving on to generation, we'll see if that needs to be updated. I expect this set up to retrieve at least the top 3 results < ~0.5 and be able to confirm the relevance myself.
+
 **Milestone 5 — Generation and interface:**
+
+For generation, Claude Code within VSC was used to wire the retrieval output into Groq's llama-3.3-70b-versatile model. Retrieved chunks are passed as context with a strict system prompt that instructs the model to answer only from the provided documents and to use the citation format "according to student reviews of [Professor] (source: [filename])". Temperature is set to 0.0 to keep responses deterministic. Source attribution is appended programmatically in Python rather than left to the model, so it always appears regardless of how the model responds.
+
+For the interface, Gradio was used to build a simple web UI with a text input, an answer display, and a sources panel. Grounding was verified by asking an out-of-scope question (nearest dining spot), which correctly returned the fallback message rather than a hallucinated answer. The full pipeline was tested against the evaluation plan questions and results were inspected for relevance and correct citation.
+
