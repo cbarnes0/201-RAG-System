@@ -1,0 +1,34 @@
+---
+doc_type: professor_review_summary
+professor_name: Tu Nguyen
+university: Kennesaw State University
+department: Computer Science
+campus: Kennesaw
+role: Associate Professor
+source: RateMyProfessors
+source_url: https://www.ratemyprofessors.com/professor/2721496
+date_compiled: 2026-06-07
+overall_quality: limited ratings
+num_ratings: few
+would_take_again: n/a
+level_of_difficulty: exams challenging but take-home
+courses: computer/quantum networks, cybersecurity (research areas)
+recurring_themes: deep technical mastery; prompt email replies; take-home exams
+---
+
+# Tu Nguyen — RateMyProfessors Summary
+
+## Overview
+Tu Nguyen is an Associate Professor of Computer Science at Kennesaw State University who directs the Next-Generation Computing and Network Systems Lab; his research spans computer and quantum networks, quantum computing, and cybersecurity, and he was named to Stanford's top-2% scientists list in 2022. He has few RateMyProfessors ratings, but reviews praise his technical depth. Exams are take-home but somewhat difficult. Contact: tnguy360@kennesaw.edu; Office: J 339.
+
+## Key Information
+Professor: Tu Nguyen (Associate Professor, Computer Science, Kennesaw State University, Kennesaw campus).
+Overall quality: limited ratings based on few ratings.
+Would take again: n/a.
+Level of difficulty: exams challenging but take-home.
+Courses noted: computer/quantum networks, cybersecurity (research areas).
+Recurring themes in reviews: deep technical mastery; prompt email replies; take-home exams.
+Source: https://www.ratemyprofessors.com/professor/2721496
+
+## Student Reviews (paraphrased)
+Review 1 (about Tu Nguyen): A student praises Tu Nguyen for genuine technical mastery, saying his lectures show he knows each topic deeply rather than just following a textbook or department slides; he replies promptly to student emails, and the exams are challenging but take-home.

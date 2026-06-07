@@ -1,0 +1,38 @@
+---
+doc_type: professor_review_summary
+professor_name: Umama Tasnim
+university: Kennesaw State University
+department: Computer Science
+campus: Marietta
+role: Professor
+source: RateMyProfessors
+source_url: https://www.ratemyprofessors.com/professor/2936300
+date_compiled: 2026-06-07
+overall_quality: ~4 / 5
+num_ratings: small (multiple listings)
+would_take_again: ~100%
+level_of_difficulty: ~3.5 / 5
+courses: CS3305 (Data Structures); Operating Systems
+recurring_themes: amazing lectures; clear grading criteria; lecture heavy
+---
+
+# Umama Tasnim — RateMyProfessors Summary
+
+## Overview
+Umama Tasnim is a Computer Science professor at Kennesaw State University (Marietta campus) who has taught CS3305 (Data Structures) and Operating Systems. Her RateMyProfessors profile is generally positive (around 4 out of 5 with about 100% would-take-again and difficulty near 3.5). Note: there are two RateMyProfessors listings under this name; the reviews below are drawn from both.
+
+## Key Information
+Professor: Umama Tasnim (Professor, Computer Science, Kennesaw State University, Marietta campus).
+Overall quality: ~4 / 5 based on small (multiple listings) ratings.
+Would take again: ~100%.
+Level of difficulty: ~3.5 / 5.
+Courses noted: CS3305 (Data Structures); Operating Systems.
+Recurring themes in reviews: amazing lectures; clear grading criteria; lecture heavy.
+Source: https://www.ratemyprofessors.com/professor/2936300
+
+## Student Reviews (paraphrased)
+Review 1 (about Umama Tasnim): A student says Umama Tasnim made passing CS3305 easier than expected: following her lectures and working the (not code-heavy) data-structure examples alongside her lets you pass the class with ease.
+
+Review 2 (about Umama Tasnim): A student in Umama Tasnim's Operating Systems class (Spring 2024) noted the schedule lacked due dates, deadlines and assignment and quiz instructions were vague, and lectures weren't engaging, though she offered makeup quizzes and bonuses.
+
+Review 3 (about Umama Tasnim): A student describes Umama Tasnim as an okay teacher and a solid option simply to get through the class (CS3305, earned an A+, would take again).

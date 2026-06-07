@@ -1,0 +1,37 @@
+---
+doc_type: professor_review_summary
+professor_name: Victor Clincy
+university: Kennesaw State University
+department: Computer Science
+campus: Kennesaw
+role: Professor
+source: RateMyProfessors
+source_url: https://www.ratemyprofessors.com/professor/272248
+date_compiled: 2026-06-07
+overall_quality: 2.7 / 5
+num_ratings: ~140
+would_take_again: ~43.5%
+level_of_difficulty: 4.2 / 5
+courses: Computer architecture
+recurring_themes: strict; dense lecture material; high grade curves
+---
+
+# Victor Clincy — RateMyProfessors Summary
+
+## Overview
+Victor Clincy is a Computer Science professor at Kennesaw State University who frequently teaches computer architecture. His RateMyProfessors profile is mixed (about 2.7 out of 5 across roughly 140 ratings, with around 43.5% of students saying they would take him again and a high difficulty rating of 4.2). Reviews describe him as knowledgeable but strict, with dense lecture material and high curves.
+
+## Key Information
+Professor: Victor Clincy (Professor, Computer Science, Kennesaw State University, Kennesaw campus).
+Overall quality: 2.7 / 5 based on ~140 ratings.
+Would take again: ~43.5%.
+Level of difficulty: 4.2 / 5.
+Courses noted: Computer architecture.
+Recurring themes in reviews: strict; dense lecture material; high grade curves.
+Source: https://www.ratemyprofessors.com/professor/272248
+
+## Student Reviews (paraphrased)
+Review 1 (about Victor Clincy): A student describes Victor Clincy as a good but very strict teacher, warning that computer architecture is hard and advising students to follow instructions carefully and submit labs on time.
+
+Review 2 (about Victor Clincy): A student's main complaint about Victor Clincy is that his presentations combine a lot of material and assume students can connect it, while the textbook offers only a few worked examples; they felt students get blamed for low grades, which produces high curves.
+

@@ -1,0 +1,38 @@
+---
+doc_type: professor_review_summary
+professor_name: Ruvini Jayamaha
+university: Kennesaw State University
+department: Data Science & Analytics
+campus: Kennesaw
+role: Lecturer
+source: RateMyProfessors
+source_url: https://www.ratemyprofessors.com/professor/3037659
+date_compiled: 2026-06-07
+overall_quality: strongly positive
+num_ratings: several
+would_take_again: high
+level_of_difficulty: moderate
+courses: STAT 2332 (Probability & Data Analysis); STAT 4210; STAT 7210 (Applied Regression)
+recurring_themes: highly organized; own slides/demos; clear explanations; accessible
+---
+
+# Ruvini Jayamaha — RateMyProfessors Summary
+
+## Overview
+Ruvini Jayamaha is a Data Science & Analytics lecturer at Kennesaw State University with a PhD in Statistics (Western Michigan University). She teaches STAT 2332, STAT 4210, and STAT 7210. Her RateMyProfessors reviews are strongly positive, emphasizing organization, her own course materials, clear explanations, and accessibility. Contact: rjayamah@kennesaw.edu; Office: R2 206.
+
+## Key Information
+Professor: Ruvini Jayamaha (Lecturer, Data Science & Analytics, Kennesaw State University, Kennesaw campus).
+Overall quality: strongly positive based on several ratings.
+Would take again: high.
+Level of difficulty: moderate.
+Courses noted: STAT 2332 (Probability & Data Analysis); STAT 4210; STAT 7210 (Applied Regression).
+Recurring themes in reviews: highly organized; own slides/demos; clear explanations; accessible.
+Source: https://www.ratemyprofessors.com/professor/3037659
+
+## Student Reviews (paraphrased)
+Review 1 (about Ruvini Jayamaha): A student calls Ruvini Jayamaha one of the most organized instructors they had, saying that structure makes a real difference and she avoids the vague explanations that make online classes harder than they should be.
+
+Review 2 (about Ruvini Jayamaha): A student says Ruvini Jayamaha is fantastic for STAT 2332: all slides and demos are her own (no textbook or web assignments), she is very knowledgeable, and the labs are enjoyable and manageable if you attend; she has strong classroom control and is pleasant one-on-one.
+
+Review 3 (about Ruvini Jayamaha): A student describes Ruvini Jayamaha as thorough in her explanations, clearly wanting students to succeed and to apply what they learn to their future careers.

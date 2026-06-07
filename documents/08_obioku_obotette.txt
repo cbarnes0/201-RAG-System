@@ -1,0 +1,34 @@
+---
+doc_type: professor_review_summary
+professor_name: Obioku Obotette
+university: Kennesaw State University
+department: Computer Science / Software Engineering
+campus: Kennesaw
+role: Limited Term Instructor
+source: RateMyProfessors
+source_url: https://www.ratemyprofessors.com/professor/2935457
+date_compiled: 2026-06-07
+overall_quality: 1.3 / 5
+num_ratings: ~13
+would_take_again: ~8%
+level_of_difficulty: 3.9 / 5
+courses: 3153
+recurring_themes: tough grader; test heavy; lots of homework; group projects
+---
+
+# Obioku Obotette — RateMyProfessors Summary
+
+## Overview
+Obioku Obotette is a Limited Term Instructor in Computer Science / Software Engineering at Kennesaw State University (course 3153 noted). His RateMyProfessors profile is strongly negative (about 1.3 out of 5 across roughly 13 ratings, with around 8% would-take-again and difficulty 3.9). Common tags include tough grader, test heavy, lots of homework, and group projects.
+
+## Key Information
+Professor: Obioku Obotette (Limited Term Instructor, Computer Science / Software Engineering, Kennesaw State University, Kennesaw campus).
+Overall quality: 1.3 / 5 based on ~13 ratings.
+Would take again: ~8%.
+Level of difficulty: 3.9 / 5.
+Courses noted: 3153.
+Recurring themes in reviews: tough grader; test heavy; lots of homework; group projects.
+Source: https://www.ratemyprofessors.com/professor/2935457
+
+## Student Reviews (paraphrased)
+Review 1 (about Obioku Obotette): A student strongly warns against taking Obioku Obotette's class and notes that an automatic 50 is given if he believes AI was used; they wrote it as their first-ever review specifically because of the experience.

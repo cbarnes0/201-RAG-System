@@ -1,0 +1,34 @@
+---
+doc_type: professor_review_summary
+professor_name: Ermias Mamo
+university: Kennesaw State University
+department: Computer Science
+campus: Kennesaw
+role: Lecturer
+source: RateMyProfessors
+source_url: https://www.ratemyprofessors.com/professor/2286818
+date_compiled: 2026-06-07
+overall_quality: 2.7 / 5
+num_ratings: ~40
+would_take_again: ~40%
+level_of_difficulty: 3.1 / 5
+courses: CSE1321L
+recurring_themes: industry background; course-page/logistics frustrations
+---
+
+# Ermias Mamo — RateMyProfessors Summary
+
+## Overview
+Ermias Mamo is a Computer Science lecturer at Kennesaw State University with 20+ years of IT industry experience (business analysis, software development, IT project management) and a doctorate in Finance. His RateMyProfessors profile is mixed (about 2.7 out of 5 across roughly 40 ratings, with around 40% would-take-again and difficulty 3.1). A separate listing exists for him at Chattahoochee Technical College.
+
+## Key Information
+Professor: Ermias Mamo (Lecturer, Computer Science, Kennesaw State University, Kennesaw campus).
+Overall quality: 2.7 / 5 based on ~40 ratings.
+Would take again: ~40%.
+Level of difficulty: 3.1 / 5.
+Courses noted: CSE1321L.
+Recurring themes in reviews: industry background; course-page/logistics frustrations.
+Source: https://www.ratemyprofessors.com/professor/2286818
+
+## Student Reviews (paraphrased)
+Review 1 (about Ermias Mamo): A student in Ermias Mamo's CSE1321L had no problem with the actual section instructor, but found the shared FYE course page frustrating because assignment instructions didn't unlock until a week into the assignment window, blocking an early start.

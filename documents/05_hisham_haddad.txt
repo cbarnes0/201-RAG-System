@@ -1,0 +1,38 @@
+---
+doc_type: professor_review_summary
+professor_name: Hisham Haddad
+university: Kennesaw State University
+department: Computer Science
+campus: Kennesaw
+role: Professor (PTR Coordinator)
+source: RateMyProfessors
+source_url: https://www.ratemyprofessors.com/professor/272340
+date_compiled: 2026-06-07
+overall_quality: 2.7 / 5
+num_ratings: ~79-88
+would_take_again: ~33-35%
+level_of_difficulty: 4.1 / 5
+courses: Data Structures; Algorithm Analysis (Java)
+recurring_themes: strict grader; lecture-dependent material; automatic-zero assignment rules
+---
+
+# Hisham Haddad — RateMyProfessors Summary
+
+## Overview
+Hisham Haddad is a Computer Science professor at Kennesaw State University who teaches Data Structures and Algorithm Analysis (in Java). His RateMyProfessors profile is mixed-to-negative (about 2.7 out of 5 across roughly 79-88 ratings, with around 33-35% would-take-again and a high difficulty of 4.1). Reviews describe a strict grader whose material is delivered mainly in lecture, with strict assignment rules.
+
+## Key Information
+Professor: Hisham Haddad (Professor (PTR Coordinator), Computer Science, Kennesaw State University, Kennesaw campus).
+Overall quality: 2.7 / 5 based on ~79-88 ratings.
+Would take again: ~33-35%.
+Level of difficulty: 4.1 / 5.
+Courses noted: Data Structures; Algorithm Analysis (Java).
+Recurring themes in reviews: strict grader; lecture-dependent material; automatic-zero assignment rules.
+Source: https://www.ratemyprofessors.com/professor/272340
+
+## Student Reviews (paraphrased)
+Review 1 (about Hisham Haddad): A student notes that Hisham Haddad's positive reviews mostly come from Data Structures, but warns that his Algorithm Analysis class is incredibly hard, he is a strict grader, and learning material is delivered only in lecture, so missing class is costly.
+
+Review 2 (about Hisham Haddad): A student found Hisham Haddad's class not inherently hard, but points are deducted for minor deviations from the expected output, and assignments become ambiguous or contradictory later in the term (around assignment 8).
+
+Review 3 (about Hisham Haddad): A student had to drop Hisham Haddad's class, describing multiple ways to earn an automatic zero (for example, missing per-line comments) and no leniency despite unclear instructions and being new to Java.

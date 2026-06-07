@@ -1,0 +1,38 @@
+---
+doc_type: professor_review_summary
+professor_name: Enda Sullivan
+university: Kennesaw State University
+department: Computer Science & Engineering (CSE)
+campus: Marietta
+role: Faculty
+source: RateMyProfessors
+source_url: https://www.ratemyprofessors.com/professor/2185776
+date_compiled: 2026-06-07
+overall_quality: very high (~4.9 / 5)
+num_ratings: multiple
+would_take_again: high
+level_of_difficulty: moderate
+courses: CSE1321L; CSE1322L; CSE1322
+recurring_themes: amazing lectures; clear grading; caring; firm on policies
+---
+
+# Enda Sullivan — RateMyProfessors Summary
+
+## Overview
+Enda Sullivan is a Computer Science & Engineering (CSE) instructor at Kennesaw State University who teaches intro programming labs and lectures (CSE1321L, CSE1322L, CSE1322). His RateMyProfessors profile is very positive (around 4.9 out of 5). Grades are typically based on three lockdown-browser exams plus weekly quizzes. Students describe him as a strong lecturer who is caring but firm on course policy. Contact: esulli13@kennesaw.edu.
+
+## Key Information
+Professor: Enda Sullivan (Faculty, Computer Science & Engineering (CSE), Kennesaw State University, Marietta campus).
+Overall quality: very high (~4.9 / 5) based on multiple ratings.
+Would take again: high.
+Level of difficulty: moderate.
+Courses noted: CSE1321L; CSE1322L; CSE1322.
+Recurring themes in reviews: amazing lectures; clear grading; caring; firm on policies.
+Source: https://www.ratemyprofessors.com/professor/2185776
+
+## Student Reviews (paraphrased)
+Review 1 (about Enda Sullivan): A student describes Enda Sullivan as a very good, knowledgeable programming teacher; the grade was based on three lockdown-browser exams and quizzes, he prepared the class well, and they would take him again.
+
+Review 2 (about Enda Sullivan): A student praised Enda Sullivan's amazing lectures and willingness to answer questions; the CSE1322 lecture was graded via three exams and weekly open-note/internet quizzes.
+
+Review 3 (about Enda Sullivan): A student calls Enda Sullivan a great lecturer whose office hours are very useful when struggling, and caring, though he won't budge on the no-makeup-quiz policy, which is offset by dropping the lowest grade.

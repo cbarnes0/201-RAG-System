@@ -1,0 +1,38 @@
+---
+doc_type: professor_review_summary
+professor_name: Dmitri Nunes
+university: Kennesaw State University
+department: Computer Science / Software Engineering
+campus: Marietta
+role: Lecturer
+source: RateMyProfessors
+source_url: https://www.ratemyprofessors.com/professor/2908234
+date_compiled: 2026-06-07
+overall_quality: very high (~5 / 5 on related listing)
+num_ratings: few (multiple listings)
+would_take_again: ~100%
+level_of_difficulty: low (~1.7 / 5 on related listing)
+courses: CSE1322 (intro programming)
+recurring_themes: amazing lectures; clear grading; good feedback; accessible outside class
+---
+
+# Dmitri Nunes — RateMyProfessors Summary
+
+## Overview
+Dmitri Nunes is a Computer Science / Software Engineering lecturer at Kennesaw State University who has taught intro programming (CSE1322). His RateMyProfessors reviews are strongly positive (a related listing shows about 5 out of 5 with roughly 100% would-take-again and low difficulty near 1.7). Students praise clear lectures, helpful feedback, and accessibility outside class.
+
+## Key Information
+Professor: Dmitri Nunes (Lecturer, Computer Science / Software Engineering, Kennesaw State University, Marietta campus).
+Overall quality: very high (~5 / 5 on related listing) based on few (multiple listings) ratings.
+Would take again: ~100%.
+Level of difficulty: low (~1.7 / 5 on related listing).
+Courses noted: CSE1322 (intro programming).
+Recurring themes in reviews: amazing lectures; clear grading; good feedback; accessible outside class.
+Source: https://www.ratemyprofessors.com/professor/2908234
+
+## Student Reviews (paraphrased)
+Review 1 (about Dmitri Nunes): A student calls Dmitri Nunes the best professor to have for the course: he answers all questions, gives clear lectures, values student feedback, is very understanding, and earns a 100% recommendation.
+
+Review 2 (about Dmitri Nunes): A student praised the GTA (John Blake) in Dmitri Nunes's class; attendance was optional, they recommend watching the provided videos and typing along, found the final much better written than the midterm, and enjoyed the course overall.
+
+Review 3 (about Dmitri Nunes): A student describes Dmitri Nunes as a nice professor with everything accessible outside class; tests and quizzes are easy if you prepare, and he uses strong examples and real-world references to explain topics.

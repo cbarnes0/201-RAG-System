@@ -1,0 +1,38 @@
+---
+doc_type: professor_review_summary
+professor_name: Selena He
+university: Kennesaw State University
+department: Computer Science
+campus: Kennesaw
+role: Professor
+source: RateMyProfessors
+source_url: https://www.ratemyprofessors.com/professor/2236628
+date_compiled: 2026-06-07
+overall_quality: 1.4 / 5
+num_ratings: ~20
+would_take_again: ~10%
+level_of_difficulty: 4.3 / 5
+courses: CS6045 (graduate)
+recurring_themes: heavy homework load; TurnItIn used on all work; subjective grading; timed tests and quizzes
+---
+
+# Selena He — RateMyProfessors Summary
+
+## Overview
+Selena He is a Computer Science professor at Kennesaw State University (Kennesaw campus). Her RateMyProfessors profile is strongly negative overall (about 1.4 out of 5 across roughly 20 ratings, with around 10% of students saying they would take her again and a high difficulty rating of 4.3). Students most often cite a heavy homework load, the use of TurnItIn on all submissions, subjective grading on group projects, and rigidly timed tests and quizzes.
+
+## Key Information
+Professor: Selena He (Professor, Computer Science, Kennesaw State University, Kennesaw campus).
+Overall quality: 1.4 / 5 based on ~20 ratings.
+Would take again: ~10%.
+Level of difficulty: 4.3 / 5.
+Courses noted: CS6045 (graduate).
+Recurring themes in reviews: heavy homework load; TurnItIn used on all work; subjective grading; timed tests and quizzes.
+Source: https://www.ratemyprofessors.com/professor/2236628
+
+## Student Reviews (paraphrased)
+Review 1 (about Selena He): A student reports that Selena He assigns a very heavy homework load and runs everything through TurnItIn, including math-based work, which they found pointless; the group project is a large, subjectively graded portion of the grade, and the class felt like two classes' worth of work.
+
+Review 2 (about Selena He): A student calls it one of the worst classes at KSU under Selena He: grading guidelines are unclear, points are lost for work that wasn't actually required, and fixed-time quizzes and tests conflict with work schedules.
+
+Review 3 (about Selena He): A student describes Selena He as the worst professor they had had, citing unclear grading guidelines and a sense that she did not care to teach.
